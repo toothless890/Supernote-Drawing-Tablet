@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Android2Drawingtablet", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{9BD62A2B-86C2-419E-96B4-1DC45EA01073}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Android2Drawingtablet", "Android2DrawingTablet\Android2DrawingTablet.vcxproj", "{9BD62A2B-86C2-419E-96B4-1DC45EA01073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +13,8 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Debug|x64.ActiveCfg = Debug|x64
-		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Debug|x64.Build.0 = Debug|x64
+		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Debug|x64.ActiveCfg = Release|x64
+		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Debug|x64.Build.0 = Release|x64
 		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Debug|x86.ActiveCfg = Debug|Win32
 		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Debug|x86.Build.0 = Debug|Win32
 		{9BD62A2B-86C2-419E-96B4-1DC45EA01073}.Release|x64.ActiveCfg = Release|x64
