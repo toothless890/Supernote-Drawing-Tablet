@@ -19,6 +19,11 @@ This requires being able to access the adb shell on the device. I dont remember 
 I will improve these instructions eventually
 #
 
+# Goals:
+Expand compatibility,
+reduce external requirements,
+get touch working to allow for buttons, like undo, zoom, erase mode, etc. 
+
 
 Created in visual studio because I was trying something new.
 
