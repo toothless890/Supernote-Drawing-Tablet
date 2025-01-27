@@ -12,8 +12,8 @@ May work on most android devices changing /dev/input/event5 to whatever the digi
    download at https://developer.android.com/tools/releases/platform-tools#downloads
 
     **adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll MUST BE IN THE SAME FOLDER AS THE EXE**
-
-3. Run the exe
+3. unlock the adb shell https://github.com/TA1312/supernote-a5x/tree/master#recovery-mode 
+4. Run the exe
 #
 This requires being able to access the adb shell on the device. I dont remember if its enabled by default or not on Supernote devices. 
 I will improve these instructions eventually
