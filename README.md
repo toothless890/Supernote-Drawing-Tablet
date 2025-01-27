@@ -8,7 +8,8 @@ May work on most android devices changing /dev/input/event5 to whatever the digi
 1. Download the executable from releases.
 
 2. Install adb if you dont have it
-(download at https://developer.android.com/tools/releases/platform-tools#downloads).
+
+   download at https://developer.android.com/tools/releases/platform-tools#downloads
 
     **adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll MUST BE IN THE SAME FOLDER AS THE EXE**
 
