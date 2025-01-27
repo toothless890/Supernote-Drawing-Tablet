@@ -21,7 +21,7 @@ I will improve these instructions eventually
 
 Created in visual studio because I was trying something new.
 
-The important file is main.cpp located in Supernote-Drawing-Tablet/ConsoleApplication1/
+The important file is main.cpp located in Supernote-Drawing-Tablet/Android2DrawingTablet/
 
 I need to clean up a lot of stuff...
 
