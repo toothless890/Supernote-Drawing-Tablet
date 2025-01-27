@@ -14,6 +14,7 @@ This DOES work wirelessly if you can figure out setting up a wireless ADB connec
 
     **adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll MUST BE IN THE SAME FOLDER AS THE EXE**
 3. unlock the adb shell
+   
    This repo has an easy script for it https://github.com/TA1312/supernote-a5x/tree/master#recovery-mode 
 6. Run the exe
 
