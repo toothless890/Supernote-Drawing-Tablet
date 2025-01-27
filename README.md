@@ -3,7 +3,7 @@ Designed to work with the Supernote A5X on a windows PC, but should be functiona
 
 May work on most android devices changing /dev/input/event5 to whatever the digitizer is on that device
 
-This DOES work wirelessly if you can figure out setting up a wireless ADB connection. More in-depth instructions to come...
+This DOES work wirelessly if you can figure out setting up a wireless ADB connection. But it will disconnect if theres not enough data being sent. Ill try to work on it more so that it reconnects automatically
 
 # Installation instructions:
 1. Download the executable from releases.
